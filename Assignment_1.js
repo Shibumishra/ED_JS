@@ -20,14 +20,12 @@ console.clear();
 // Question 3:
 // Write a JavaScript program to create menu driven calculator that performs basic arithmetic operations (add, subtract, multiply and divide) using switch case. The calculator should input two numbers and an operator: +, -, *, / from the user. It should perform operation according to the operator entered and must take input in given format.
 
-
 // Question 4:
 // Write a JavaScript program to input sides of a triangle and check whether a triangle is equilateral, scalene or isosceles triangle using if else.
 // Properties of triangle:
 // A triangle is said Equilateral Triangle, if all its sides are equal. If a, b, c are three sides of triangle. Then, the triangle is equilateral only if a == b == c.
 // A triangle is said Isosceles Triangle, if its two sides are equal. If a, b, c are three sides of triangle. Then, the triangle is isosceles if either a == b or a == c or b == c.
 // A triangle is said Scalene Triangle, if none of its sides are equal.
-
 
 // Question 5:
 // Write a JavaScript program to input electricity unit charge and calculate the total electricity bill according to the given condition:
@@ -37,7 +35,6 @@ console.clear();
 // For unit above 250 Rs. 1.50/unit
 // An additional surcharge of 20% is added to the bill.
 // For example, input: 20 units then bill is Rs10
-
 
 console.log("Q1 END =====================");
 var str1 = "Today is";
