@@ -12,3 +12,10 @@ if(count === 2){
 }else{
 console.log(num +"Not prime number");
 }
+
+
+//WAP to print 20 even number
+console.log("*******************2nd**********************");
+for(var num=0; num<=20; num=num+2){
+  console.log(num);
+}
